@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Downloads\\VStudio\\CommandPatternBasic1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA30FBFA-5D23-4825-A7AD-C4F197B5718E}|CommandPatternBasic1\\CommandPatternBasic1.csproj|C:\\Users\\PC\\Downloads\\VStudio\\CommandPatternBasic1\\commandpatternbasic1\\lamp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA30FBFA-5D23-4825-A7AD-C4F197B5718E}|CommandPatternBasic1\\CommandPatternBasic1.csproj|solutionrelative:commandpatternbasic1\\lamp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA30FBFA-5D23-4825-A7AD-C4F197B5718E}|CommandPatternBasic1\\CommandPatternBasic1.csproj|C:\\Users\\PC\\Downloads\\VStudio\\CommandPatternBasic1\\commandpatternbasic1\\setsourcecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA30FBFA-5D23-4825-A7AD-C4F197B5718E}|CommandPatternBasic1\\CommandPatternBasic1.csproj|solutionrelative:commandpatternbasic1\\setsourcecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA30FBFA-5D23-4825-A7AD-C4F197B5718E}|CommandPatternBasic1\\CommandPatternBasic1.csproj|C:\\Users\\PC\\Downloads\\VStudio\\CommandPatternBasic1\\commandpatternbasic1\\phaseupcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA30FBFA-5D23-4825-A7AD-C4F197B5718E}|CommandPatternBasic1\\CommandPatternBasic1.csproj|solutionrelative:commandpatternbasic1\\phaseupcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA30FBFA-5D23-4825-A7AD-C4F197B5718E}|CommandPatternBasic1\\CommandPatternBasic1.csproj|c:\\users\\pc\\downloads\\vstudio\\commandpatternbasic1\\commandpatternbasic1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA30FBFA-5D23-4825-A7AD-C4F197B5718E}|CommandPatternBasic1\\CommandPatternBasic1.csproj|solutionrelative:commandpatternbasic1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA30FBFA-5D23-4825-A7AD-C4F197B5718E}|CommandPatternBasic1\\CommandPatternBasic1.csproj|C:\\Users\\PC\\Downloads\\VStudio\\CommandPatternBasic1\\commandpatternbasic1\\macrocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA30FBFA-5D23-4825-A7AD-C4F197B5718E}|CommandPatternBasic1\\CommandPatternBasic1.csproj|solutionrelative:commandpatternbasic1\\macrocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA30FBFA-5D23-4825-A7AD-C4F197B5718E}|CommandPatternBasic1\\CommandPatternBasic1.csproj|C:\\Users\\PC\\Downloads\\VStudio\\CommandPatternBasic1\\commandpatternbasic1\\universalremote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA30FBFA-5D23-4825-A7AD-C4F197B5718E}|CommandPatternBasic1\\CommandPatternBasic1.csproj|solutionrelative:commandpatternbasic1\\universalremote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA30FBFA-5D23-4825-A7AD-C4F197B5718E}|CommandPatternBasic1\\CommandPatternBasic1.csproj|C:\\Users\\PC\\Downloads\\VStudio\\CommandPatternBasic1\\commandpatternbasic1\\commandbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA30FBFA-5D23-4825-A7AD-C4F197B5718E}|CommandPatternBasic1\\CommandPatternBasic1.csproj|solutionrelative:commandpatternbasic1\\commandbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA30FBFA-5D23-4825-A7AD-C4F197B5718E}|CommandPatternBasic1\\CommandPatternBasic1.csproj|C:\\Users\\PC\\Downloads\\VStudio\\CommandPatternBasic1\\commandpatternbasic1\\turnoncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA30FBFA-5D23-4825-A7AD-C4F197B5718E}|CommandPatternBasic1\\CommandPatternBasic1.csproj|solutionrelative:commandpatternbasic1\\turnoncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA30FBFA-5D23-4825-A7AD-C4F197B5718E}|CommandPatternBasic1\\CommandPatternBasic1.csproj|C:\\Users\\PC\\Downloads\\VStudio\\CommandPatternBasic1\\commandpatternbasic1\\turnoffcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA30FBFA-5D23-4825-A7AD-C4F197B5718E}|CommandPatternBasic1\\CommandPatternBasic1.csproj|solutionrelative:commandpatternbasic1\\turnoffcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA30FBFA-5D23-4825-A7AD-C4F197B5718E}|CommandPatternBasic1\\CommandPatternBasic1.csproj|C:\\Users\\PC\\Downloads\\VStudio\\CommandPatternBasic1\\commandpatternbasic1\\phasedowncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA30FBFA-5D23-4825-A7AD-C4F197B5718E}|CommandPatternBasic1\\CommandPatternBasic1.csproj|solutionrelative:commandpatternbasic1\\phasedowncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA30FBFA-5D23-4825-A7AD-C4F197B5718E}|CommandPatternBasic1\\CommandPatternBasic1.csproj|C:\\Users\\PC\\Downloads\\VStudio\\CommandPatternBasic1\\commandpatternbasic1\\mutecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA30FBFA-5D23-4825-A7AD-C4F197B5718E}|CommandPatternBasic1\\CommandPatternBasic1.csproj|solutionrelative:commandpatternbasic1\\mutecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\VStudio\\CommandPatternBasic1\\CommandPatternBasic1\\Program.cs",
+              "RelativeDocumentMoniker": "CommandPatternBasic1\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\VStudio\\CommandPatternBasic1\\CommandPatternBasic1\\Program.cs",
+              "RelativeToolTip": "CommandPatternBasic1\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T21:41:12.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TurnOffCommand.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\VStudio\\CommandPatternBasic1\\CommandPatternBasic1\\TurnOffCommand.cs",
+              "RelativeDocumentMoniker": "CommandPatternBasic1\\TurnOffCommand.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\VStudio\\CommandPatternBasic1\\CommandPatternBasic1\\TurnOffCommand.cs",
+              "RelativeToolTip": "CommandPatternBasic1\\TurnOffCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T21:43:30.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TurnOnCommand.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\VStudio\\CommandPatternBasic1\\CommandPatternBasic1\\TurnOnCommand.cs",
+              "RelativeDocumentMoniker": "CommandPatternBasic1\\TurnOnCommand.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\VStudio\\CommandPatternBasic1\\CommandPatternBasic1\\TurnOnCommand.cs",
+              "RelativeToolTip": "CommandPatternBasic1\\TurnOnCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T21:56:43.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UniversalRemote.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\VStudio\\CommandPatternBasic1\\CommandPatternBasic1\\UniversalRemote.cs",
+              "RelativeDocumentMoniker": "CommandPatternBasic1\\UniversalRemote.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\VStudio\\CommandPatternBasic1\\CommandPatternBasic1\\UniversalRemote.cs",
+              "RelativeToolTip": "CommandPatternBasic1\\UniversalRemote.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAAEQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T22:10:36.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lamp.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\VStudio\\CommandPatternBasic1\\CommandPatternBasic1\\Lamp.cs",
+              "RelativeDocumentMoniker": "CommandPatternBasic1\\Lamp.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\VStudio\\CommandPatternBasic1\\CommandPatternBasic1\\Lamp.cs",
+              "RelativeToolTip": "CommandPatternBasic1\\Lamp.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAABwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T21:44:39.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CommandBase.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\VStudio\\CommandPatternBasic1\\CommandPatternBasic1\\CommandBase.cs",
+              "RelativeDocumentMoniker": "CommandPatternBasic1\\CommandBase.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\VStudio\\CommandPatternBasic1\\CommandPatternBasic1\\CommandBase.cs",
+              "RelativeToolTip": "CommandPatternBasic1\\CommandBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T21:41:33.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MacroCommand.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\VStudio\\CommandPatternBasic1\\CommandPatternBasic1\\MacroCommand.cs",
+              "RelativeDocumentMoniker": "CommandPatternBasic1\\MacroCommand.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\VStudio\\CommandPatternBasic1\\CommandPatternBasic1\\MacroCommand.cs",
+              "RelativeToolTip": "CommandPatternBasic1\\MacroCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T22:23:41.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PhaseUPCommand.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\VStudio\\CommandPatternBasic1\\CommandPatternBasic1\\PhaseUPCommand.cs",
+              "RelativeDocumentMoniker": "CommandPatternBasic1\\PhaseUPCommand.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\VStudio\\CommandPatternBasic1\\CommandPatternBasic1\\PhaseUPCommand.cs",
+              "RelativeToolTip": "CommandPatternBasic1\\PhaseUPCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T22:03:34.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SetSourceCommand.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\VStudio\\CommandPatternBasic1\\CommandPatternBasic1\\SetSourceCommand.cs",
+              "RelativeDocumentMoniker": "CommandPatternBasic1\\SetSourceCommand.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\VStudio\\CommandPatternBasic1\\CommandPatternBasic1\\SetSourceCommand.cs",
+              "RelativeToolTip": "CommandPatternBasic1\\SetSourceCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T22:08:23.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PhaseDownCommand.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\VStudio\\CommandPatternBasic1\\CommandPatternBasic1\\PhaseDownCommand.cs",
+              "RelativeDocumentMoniker": "CommandPatternBasic1\\PhaseDownCommand.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\VStudio\\CommandPatternBasic1\\CommandPatternBasic1\\PhaseDownCommand.cs",
+              "RelativeToolTip": "CommandPatternBasic1\\PhaseDownCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T22:07:17.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MuteCommand.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\VStudio\\CommandPatternBasic1\\CommandPatternBasic1\\MuteCommand.cs",
+              "RelativeDocumentMoniker": "CommandPatternBasic1\\MuteCommand.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\VStudio\\CommandPatternBasic1\\CommandPatternBasic1\\MuteCommand.cs",
+              "RelativeToolTip": "CommandPatternBasic1\\MuteCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T22:29:51.523Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\PC\Downloads\VStudio\CommandPatternBasic1\CommandPatternBasic1\bin\Debug\CommandPatternBasic1.exe.config
+C:\Users\PC\Downloads\VStudio\CommandPatternBasic1\CommandPatternBasic1\bin\Debug\CommandPatternBasic1.exe
+C:\Users\PC\Downloads\VStudio\CommandPatternBasic1\CommandPatternBasic1\bin\Debug\CommandPatternBasic1.pdb
+C:\Users\PC\Downloads\VStudio\CommandPatternBasic1\CommandPatternBasic1\obj\Debug\CommandPatternBasic1.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\VStudio\CommandPatternBasic1\CommandPatternBasic1\obj\Debug\CommandPatternBasic1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\VStudio\CommandPatternBasic1\CommandPatternBasic1\obj\Debug\CommandPatternBasic1.exe
+C:\Users\PC\Downloads\VStudio\CommandPatternBasic1\CommandPatternBasic1\obj\Debug\CommandPatternBasic1.pdb
